@@ -1,0 +1,30 @@
+# Query: header
+# Excluding: header
+# ContextLines: 1
+
+6 results - 1 file
+
+style.css:
+   44  
+   45: .gradient {
+   46    padding: 1em 2em 2em 2em;
+
+   55  
+   56: header h1 {
+   57    color: var(--Light-lavender);
+
+   62  
+   63: header .circle {
+   64    border-radius: 50%;
+
+   90  
+   91: header h3 {
+   92    text-align: center;
+
+   97  
+   98: header p {
+   99    color: var(--Light-lavender);
+
+  181  
+  182:   header {
+  183      border-radius: 1.5rem;
